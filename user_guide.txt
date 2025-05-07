@@ -1,0 +1,16 @@
+=== CodeRocket Universal Tools User Guide ===
+
+FILES INCLUDED:
+- .gitignore → Git ignore rules
+- README.md → Project readme
+- push_to_github.bat → One-click GitHub push
+- auto-folder-creator.bat → Creates standard project folders
+- combined-mega-script.bat → Runs all tasks in one go
+- send_email_alert.py → Sends API usage warning email
+- api_usage_popup.py → Shows laptop popup warning
+
+HOW TO USE:
+1. Place all files in one folder (e.g., C:/Users/HP/CodeRocket-Universal-Tools)
+2. Open Git Bash or VS Code terminal there
+3. Run the scripts as needed
+4. For email, configure Gmail password or use app password for security
