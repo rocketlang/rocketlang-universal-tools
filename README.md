@@ -1,10 +1,21 @@
 # CodeRocket Universal Tools
 
-This repository contains helper scripts for layman users to:
+This repository provides reusable scripts to help layman users:
 ✅ Automate GitHub updates (push/pull)
-✅ Get laptop popups for API usage warnings
+✅ Set up project folders
+✅ Launch local apps with logging
+✅ Receive laptop popups for API warnings
 ✅ Send email alerts
-✅ Create standard project folders automatically
-✅ Combine update, push, and app launch in one script
 
-Created for Captain Anil (powerpbox@gmail.com).
+### Scripts included:
+- push_to_github.bat
+- auto-folder-creator.bat
+- combined-mega-script.bat
+- setup_and_push_to_github.bat
+- send_email_alert.py
+- api_usage_popup.py
+
+Originally crafted for Captain Anil Sharma (powerpbox@gmail.com), but designed to help anyone!
+
+Feel free to fork, improve, and adapt.
+
