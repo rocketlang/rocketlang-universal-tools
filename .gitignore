@@ -10,3 +10,7 @@ node_modules/
 
 # Ignore logs
 *.log
+
+# Ignore Visual Studio metadata
+.vs/
+*.vsidx
